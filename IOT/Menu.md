@@ -5,7 +5,7 @@
 * [Introduction](Electricité.md)
 * [Protocole de communiquation](electromagnétique.md)
 * [Electromagnétisme](protocol.md)
-* [Electromagnétisme](protocol.md)
+* [Appareil de mesure](Mesure.md)
 * [Electromagnétisme](protocol.md)
 
 ## Autres
