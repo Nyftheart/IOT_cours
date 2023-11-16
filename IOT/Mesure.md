@@ -1,4 +1,4 @@
-[<- MENU](Menu.md)
+[<- MENU](../README.md)
 ## Appareils de mesure couramment utilisés
 
 1. Oscilloscope :
@@ -28,4 +28,4 @@
 
 Ces appareils de mesure sont essentiels dans de nombreux domaines d'application. Ils permettent de collecter des informations précises, de diagnostiquer des problèmes, de résoudre des challenges techniques et de garantir la sécurité et la qualité dans l'ingénierie, la recherche et l'industrie.
 
-[<- MENU](Menu.md)
+[<- MENU](../README.md)
