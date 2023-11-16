@@ -1,4 +1,4 @@
-[<- MENU](Menu.md)
+[<- MENU](../README.md)
 # Les Ondes Électromagnétiques
 
 Les ondes électromagnétiques sont un type particulier de vague qui résulte de l'interaction entre des champs électriques et magnétiques. Ces ondes se propagent dans l'espace et transportent de l'énergie. Elles sont générées par l'accélération de charges électriques, comme des électrons oscillants dans une antenne, et sont caractérisées par leur fréquence et leur longueur d'onde.
@@ -26,4 +26,4 @@ Les ondes électromagnétiques sont un type particulier de vague qui résulte de
 
 Les ondes électromagnétiques jouent un rôle crucial dans de nombreux aspects de notre vie quotidienne, et leur compréhension est essentielle pour de nombreuses technologies modernes.
 
-[<- MENU](Menu.md)
+[<- MENU](../README.md)
