@@ -1,4 +1,4 @@
-[<- MENU](Menu.md)
+[<- MENU](../README.md)
 # Introduction
 
 Dans ce document, nous allons présenter les protocoles I2C et SPI utilisés dans les applications électroniques. Nous commencerons par une introduction aux protocoles de communication série, puis nous nous concentrerons sur les protocoles I2C et SPI. Enfin, nous donnerons quelques exemples d'utilisation de ces protocoles.
@@ -54,4 +54,4 @@ Explication des modifications
 
 Le titre a été modifié pour être plus général afin de s'appliquer à un large éventail d'applications. Les références à Arduino ont été supprimées pour rendre le document plus neutre. Le terme "microcontrôleur" a été utilisé de manière générique afin de s'appliquer à tout appareil capable de communiquer via I2C ou SPI. Les exemples d'utilisation ont été conservés, mais les appareils spécifiques ont été supprimés afin de ne pas faire référence à une marque ou un modèle spécifique.
 
-[<- MENU](Menu.md)
+[<- MENU](../README.md)
