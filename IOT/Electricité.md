@@ -1,4 +1,4 @@
-[<- MENU](Menu.md)
+[<- MENU](README.md)
 # Introduction à l'Électricité
 
 L'électricité est une forme d'énergie associée au mouvement des électrons. Elle joue un rôle crucial dans notre vie quotidienne, de l'éclairage de nos maisons à l'alimentation de nos appareils électroniques. Pour comprendre les bases de l'électricité, examinons quelques concepts fondamentaux.
