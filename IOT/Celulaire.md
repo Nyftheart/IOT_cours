@@ -17,4 +17,4 @@ Voici quelques informations clés sur les réseaux cellulaires :
 
 Les réseaux cellulaires jouent un rôle crucial dans la connectivité et la communication mobile. Ils permettent aux utilisateurs d'accéder à Internet, d'effectuer des appels vocaux, d'envoyer des messages texte et de profiter de divers services mobiles. Avec l'avènement de la technologie 5G, les réseaux cellulaires offrent des vitesses plus élevées, une latence réduite et de nouvelles possibilités dans des domaines tels que l'Internet des objets (IdO) et la réalité virtuelle.
 
-[<- MENU](Menu.md)
+[<- MENU](../README.md)
